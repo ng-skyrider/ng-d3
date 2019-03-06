@@ -1,6 +1,11 @@
-# NgD3
+# Installer
+- `npm install d3`
+- `npm install @types/d3 --save-dev`
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
+# generate
+- `ng g d directives/donut-chart --spec false`
+
+
 
 ## Development server
 
